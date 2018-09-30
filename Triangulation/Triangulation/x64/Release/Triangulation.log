@@ -1,0 +1,28 @@
+﻿  Source.cpp
+d:\worksumo\undergrad\hiveground\code\pure_photogrammetry\cpp\triangulation\triangulation\triangulation\source.cpp(239): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\algorithm(527): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  d:\worksumo\undergrad\hiveground\code\pure_photogrammetry\cpp\triangulation\triangulation\triangulation\source.cpp(260): note: see reference to function template instantiation 'bool std::any_of<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,FindDepthsFromOrientation::<lambda_5e38e1d0148ed3f2e5e12dcb77a8cc2f>>(const _InIt,const _InIt,_Pr)' being compiled
+          with
+          [
+              _Ty=double,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,
+              _Pr=FindDepthsFromOrientation::<lambda_5e38e1d0148ed3f2e5e12dcb77a8cc2f>
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\algorithm(277): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  d:\worksumo\undergrad\hiveground\code\pure_photogrammetry\cpp\triangulation\triangulation\triangulation\source.cpp(267): note: see reference to function template instantiation '__int64 std::count_if<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,FindDepthsFromOrientation::<lambda_417d5bec6d44c54be33c46306104f9fc>>(_InIt,_InIt,_Pr)' being compiled
+          with
+          [
+              _Ty=double,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,
+              _Pr=FindDepthsFromOrientation::<lambda_417d5bec6d44c54be33c46306104f9fc>
+          ]
+  Generating code
+  0 of 802 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Triangulation.vcxproj -> D:\WorkSumo\undergrad\hiveground\code\pure_photogrammetry\cpp\Triangulation\Triangulation\x64\Release\Triangulation.exe
